@@ -1,0 +1,143 @@
+{
+  "general_info": {
+    "duracion_tour": "3 horas",
+    "lugar_salida": "Puerto Colón – Pantalán nº 9, Costa Adeje, sur de Tenerife",
+    "horarios_salida": {
+      "tour_3h": ["10:00 a 13:00", "13:15 a 16:15"],
+      "especial_verano": "16:00 a 19:00"
+    },
+    "tipo_catamaran": "Ecológico, gran capacidad, zonas de sombra, redes para tumbarse, barra libre, baños, duchas, capacidad de 104 o 174 personas (según modelo)"
+  },
+  "faqs": [
+    {
+      "category": "Seguridad y condiciones a bordo",
+      "question": "¿Qué tan seguro es el catamarán?",
+      "answer": "Muy seguro: balsas salvavidas, chalecos, botiquín, personal cualificado. Bandera azul y certificación ecológica."
+    },
+    {
+      "category": "Seguridad y condiciones a bordo",
+      "question": "¿Incluye salvavidas?",
+      "answer": "Sí, chalecos salvavidas y balsas de emergencia."
+    },
+    {
+      "category": "Seguridad y condiciones a bordo",
+      "question": "¿Hay baño a bordo?",
+      "answer": "Sí, baños y duchas disponibles."
+    },
+    {
+      "category": "Seguridad y condiciones a bordo",
+      "question": "¿Se puede fumar?",
+      "answer": "Sí, únicamente en la parte trasera del barco."
+    },
+    {
+      "category": "Seguridad y condiciones a bordo",
+      "question": "¿Incluye snorkel?",
+      "answer": "Sí, parada para baño y snorkel en mar abierto."
+    },
+    {
+      "category": "Avistamiento de fauna marina",
+      "question": "¿Se garantiza ver ballenas?",
+      "answer": "No, pero es muy probable ver ballenas piloto, delfines y tortugas (colonias fijas en la zona)."
+    },
+    {
+      "category": "Avistamiento de fauna marina",
+      "question": "¿Qué tipo de cetáceos se ven?",
+      "answer": "Delfines mulares y comunes, ballenas piloto (calderones), tortugas y ocasionalmente otras especies."
+    },
+    {
+      "category": "Comida a bordo",
+      "question": "¿Cuál es el menú a bordo?",
+      "answer": "Adultos: arroz campero canario con mojos + postre (sin gluten/lactosa). Infantil: nuggets con papas fritas. Vegano/vegetariano: pisto de verduras con arroz + postre. Todos incluyen bebidas."
+    },
+    {
+      "category": "Comida a bordo",
+      "question": "¿Tiene opción sin gluten?",
+      "answer": "Sí, el menú adulto no contiene gluten ni lactosa."
+    },
+    {
+      "category": "Comida a bordo",
+      "question": "¿Tiene opción vegana/vegetariana?",
+      "answer": "Sí, pisto de verduras con arroz blanco."
+    },
+    {
+      "category": "Accesibilidad y público",
+      "question": "¿Puede ir una persona con movilidad reducida?",
+      "answer": "No, no hay facilidades para ello."
+    },
+    {
+      "category": "Accesibilidad y público",
+      "question": "¿Puede ir una persona embarazada?",
+      "answer": "Sí."
+    },
+    {
+      "category": "Accesibilidad y público",
+      "question": "¿Puede ir un bebé?",
+      "answer": "Sí, menores de 6 años viajan gratis."
+    },
+    {
+      "category": "Accesibilidad y público",
+      "question": "¿Puedo llevar carrito de bebé?",
+      "answer": "Sí, está permitido."
+    },
+    {
+      "category": "Reservas, cancelaciones y cambios",
+      "question": "¿Puedo reservar y pagar en el barco?",
+      "answer": "Sí, justo antes del embarque."
+    },
+    {
+      "category": "Reservas, cancelaciones y cambios",
+      "question": "¿Puedo cancelar y obtener reembolso?",
+      "answer": "Cancelación gratuita hasta 24 o 48 horas antes (según canal). Reembolso completo en ese plazo."
+    },
+    {
+      "category": "Reservas, cancelaciones y cambios",
+      "question": "¿Qué pasa si hay mal tiempo?",
+      "answer": "Se cancela y se devuelve el 100% del importe."
+    },
+    {
+      "category": "Reservas, cancelaciones y cambios",
+      "question": "¿Puedo cambiar o cancelar mi reserva?",
+      "answer": "Sí, dentro del plazo permitido (24–48 horas antes) sin coste."
+    },
+    {
+      "category": "Reservas, cancelaciones y cambios",
+      "question": "¿Puedo reservar asiento o red?",
+      "answer": "No, el embarque es libre por orden de llegada."
+    },
+    {
+      "category": "Reservas, cancelaciones y cambios",
+      "question": "¿Puedo reservar el barco completo para un evento?",
+      "answer": "Sí, Maxicat ofrece alquiler para grupos y fiestas privadas."
+    },
+    {
+      "category": "Transporte",
+      "question": "¿Tienen servicio de recogida con bus?",
+      "answer": "Sí, desde Callao Salvaje, Las Américas, Los Cristianos y Golf del Sur. Para salida 10:00 → recogida de 8:30 a 9:50. Para salida 13:15 → recogida de 11:30 a 12:50."
+    },
+    {
+      "category": "Transporte",
+      "question": "¿Dónde aparco?",
+      "answer": "Hay parking fuera del puerto y en el muelle."
+    },
+    {
+      "category": "Transporte",
+      "question": "¿Hay parking disponible?",
+      "answer": "Sí, junto al punto de embarque."
+    },
+    {
+      "category": "Recomendaciones para el tour",
+      "question": "¿Qué debo llevar al tour?",
+      "answer": "Ropa cómoda, calzado ligero, toalla, crema solar, sombrero, gafas de sol y abrigo si no es verano."
+    },
+    {
+      "category": "Recomendaciones para el tour",
+      "question": "¿Qué vestimenta debo llevar?",
+      "answer": "Ropa cómoda, calzado antideslizante, traje de baño, protector solar y algo de abrigo si hace fresco."
+    },
+    {
+      "category": "Recomendaciones para el tour",
+      "question": "¿Cuánto tiempo antes debo llegar?",
+      "answer": "15 minutos antes de la salida."
+    }
+  ]
+}
